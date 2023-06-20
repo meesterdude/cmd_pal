@@ -1,10 +1,11 @@
 # CMD_PAL
 
+https://github.com/meesterdude/cmd_pal/assets/931048/5895cb0f-593d-43cd-b538-4b3c950f94da
+
 CMD_PAL is a powerful MacOS Command Pallete GUI that enhances your productivity by making it easier to work with commands, the clipboard, and text.
 
 It is designed to be highly customizable via configuration and be easy to use.
 
-https://github.com/meesterdude/cmd_pal/assets/931048/5895cb0f-593d-43cd-b538-4b3c950f94da
 
 ## Features
 
