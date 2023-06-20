@@ -4,7 +4,7 @@ CMD_PAL is a powerful MacOS Command Pallete GUI that enhances your productivity 
 
 It is designed to be highly customizable via configuration and be easy to use.
 
-![CMD_PAL Screenshot](screenshot.png)
+![CMD_PAL Screenshot](cmd_pal_demo.mov)
 
 ## Features
 
